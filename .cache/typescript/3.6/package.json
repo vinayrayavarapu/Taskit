@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.609"
+  },
+  "devDependencies": {
+    "@types/eslint-config-prettier": "^6.11.0",
+    "@types/eslint-plugin-prettier": "^3.1.0",
+    "@types/node": "^16.6.2",
+    "@types/prettier": "^2.2.3",
+    "@types/react": "^17.0.19",
+    "@types/react-dom": "^17.0.9",
+    "@types/testing-library__jest-dom": "^5.9.4"
+  }
+}
